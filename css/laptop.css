@@ -480,6 +480,8 @@
     background-color: blue;
     grid-template-columns: 2fr 1fr 1fr;
     max-width: 1280px;
+    border: 9px solid rgba(220, 220, 220, 1);
+    border-radius: 4px;
   }
 
   .items
